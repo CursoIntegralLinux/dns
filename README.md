@@ -59,8 +59,6 @@ Notes about settings and tuning used in the DNS topic.
 # restorecon -vR /var/named/zones
 ```
 
-### DNS Slave Config Files
-
 ### DNS Config Files
 
 - [Master](https://github.com/CursoIntegralLinux/dns/tree/main/master)
